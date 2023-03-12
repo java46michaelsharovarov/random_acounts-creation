@@ -7,7 +7,8 @@ public class Account {
 
 	private String username;
 	private String password;	
-	private String experation;
+	private String expiration;
 	private String[] roles;
+	private boolean revoked;
 	
 }
